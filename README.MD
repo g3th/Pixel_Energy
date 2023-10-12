@@ -37,4 +37,4 @@ Compile with:
 
 Run with command line arguments, i.e.:
 
-```java -jar test.jar -in ~/Desktop/small.png -out small-energy.png```
+```java -jar test.jar -in ~/Desktop/test.png -out test-energy.png```

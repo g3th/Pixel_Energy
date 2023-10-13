@@ -5,7 +5,7 @@
 
 In order to calculate the energy and intensity values of each pixel in an image, each pixel's RGB value must be calculated separately with an algorithm/function originally developed by Shai Avidan and Ariel Shamir. 
 
-By energy, one calculates the importance of pixels when resizing an image with Seam Carving.
+By energy, one means determining the importance of pixels with a mathematical function, values which will be used when resizing an image with the Seam Carving algorithm.
 
 The dual-gradient energy function is:
 
